@@ -3,6 +3,7 @@
 
 # Generated files
 out/
+build/
 
 # User-specific
 .idea/workspace.xml
