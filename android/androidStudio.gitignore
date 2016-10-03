@@ -28,3 +28,6 @@ local.properties
 
 # Dev files
 *.trace
+
+# keystore details
+*.properties
