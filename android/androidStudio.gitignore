@@ -29,5 +29,5 @@ local.properties
 # Dev files
 *.trace
 
-# keystore details
-*.properties
+# Signing details
+etc/
