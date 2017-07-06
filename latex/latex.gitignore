@@ -5,3 +5,7 @@
 *.synctex.gz
 *.lof
 *.toc
+*.bcf
+*.out
+*.xml
+*.gz
